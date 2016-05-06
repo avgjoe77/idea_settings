@@ -1,5 +1,5 @@
 <application>
   <component name="TerminalOptionsProvider">
-    <option name="myShellPath" value="zsh.exe --login -i" />
+    <option name="myShellPath" value="/usr/local/bin/zsh --login -i" />
   </component>
 </application>
