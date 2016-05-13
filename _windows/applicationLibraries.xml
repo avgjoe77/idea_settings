@@ -1,5 +1,10 @@
 <application>
   <component name="libraryTable">
+    <library name="Python 2.7.10 (C:\python\2.7.10\python.exe) interpreter library">
+      <CLASSES />
+      <JAVADOC />
+      <SOURCES />
+    </library>
     <library name="scala-sdk-2.10.5" type="Scala">
       <properties>
         <option name="languageLevel" value="Scala_2_10" />
