@@ -11,6 +11,7 @@
       <mapping ext="cxx" type="C++" />
       <mapping pattern="Vagrantfile_template" type="PLAIN_TEXT" />
       <mapping pattern="foobar" type="PLAIN_TEXT" />
+      <mapping ext="crg" type="XML" />
     </extensionMap>
   </component>
 </application>
