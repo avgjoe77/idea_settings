@@ -6,12 +6,13 @@
       <mapping ext="tagx" type="XML" />
     </extensionMap>
   </component>
-  <component name="FileTypeManager" version="16">
+  <component name="FileTypeManager" version="17">
     <extensionMap>
       <mapping ext="cxx" type="C++" />
       <mapping pattern="Vagrantfile_template" type="PLAIN_TEXT" />
       <mapping pattern="foobar" type="PLAIN_TEXT" />
       <mapping ext="crg" type="XML" />
+      <mapping ext="sls" type="YAML" />
     </extensionMap>
   </component>
 </application>
