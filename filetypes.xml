@@ -16,6 +16,7 @@
       <mapping ext="cfg" type="PLAIN_TEXT" />
       <mapping ext="ks" type="PLAIN_TEXT" />
       <mapping ext="crg" type="XML" />
+      <mapping pattern="minion" type="YAML" />
       <mapping ext="sls" type="YAML" />
     </extensionMap>
   </component>
