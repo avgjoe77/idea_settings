@@ -1,5 +1,25 @@
 <application>
   <component name="libraryTable">
+    <library name="bundle (v0.0.1, ruby-2.0.0-p648) [gem]">
+      <CLASSES />
+      <JAVADOC />
+      <SOURCES />
+    </library>
+    <library name="bundler (v1.14.6, ruby-2.0.0-p648) [gem]">
+      <CLASSES>
+        <root url="file:///Library/Ruby/Gems/2.0.0/gems/bundler-1.14.6/bin" />
+        <root url="file:///Library/Ruby/Gems/2.0.0/gems/bundler-1.14.6/exe" />
+        <root url="file:///Library/Ruby/Gems/2.0.0/gems/bundler-1.14.6/lib" />
+        <root url="file:///Library/Ruby/Gems/2.0.0/gems/bundler-1.14.6/man" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file:///Library/Ruby/Gems/2.0.0/gems/bundler-1.14.6/bin" />
+        <root url="file:///Library/Ruby/Gems/2.0.0/gems/bundler-1.14.6/exe" />
+        <root url="file:///Library/Ruby/Gems/2.0.0/gems/bundler-1.14.6/lib" />
+        <root url="file:///Library/Ruby/Gems/2.0.0/gems/bundler-1.14.6/man" />
+      </SOURCES>
+    </library>
     <library name="CFPropertyList (v2.2.8, ruby-2.0.0-p648) [gem]">
       <CLASSES>
         <root url="file:///System/Library/Frameworks/Ruby.framework/Versions/2.0/usr/lib/ruby/gems/2.0.0/gems/CFPropertyList-2.2.8/lib" />
