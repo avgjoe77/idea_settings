@@ -9,10 +9,11 @@
   <component name="FileTypeManager" version="17">
     <extensionMap>
       <mapping ext="cxx" type="C++" />
+      <mapping pattern=".gitignore_global" type="Git file" />
       <mapping pattern="grains" type="PLAIN_TEXT" />
-      <mapping pattern="Vagrantfile" type="PLAIN_TEXT" />
-      <mapping pattern="Vagrantfile_template" type="PLAIN_TEXT" />
       <mapping pattern="foobar" type="PLAIN_TEXT" />
+      <mapping pattern="Vagrantfile_template" type="PLAIN_TEXT" />
+      <mapping pattern="Vagrantfile" type="PLAIN_TEXT" />
       <mapping ext="cfg" type="PLAIN_TEXT" />
       <mapping ext="ks" type="PLAIN_TEXT" />
       <mapping ext="crg" type="XML" />
