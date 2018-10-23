@@ -7,23 +7,14 @@
     <option name="SURROUND_SELECTION_ON_QUOTE_TYPED" value="true" />
     <option name="HIGHLIGHT_SCOPE" value="true" />
   </component>
-  <component name="DaemonCodeAnalyzerSettings">
-    <option name="SHOW_METHOD_SEPARATORS" value="true" />
-  </component>
   <component name="JavaCodeFoldingSettings">
     <option name="collapseAccessors" value="true" />
     <option name="collapseAnnotations" value="true" />
     <option name="collapseAnonymousClasses" value="true" />
     <option name="collapseEndOfLineComments" value="true" />
     <option name="collapseInnerClasses" value="true" />
-    <option name="COLLAPSE_ACCESSORS" value="true" />
-    <option name="COLLAPSE_INNER_CLASSES" value="true" />
-    <option name="COLLAPSE_ANONYMOUS_CLASSES" value="true" />
-    <option name="COLLAPSE_ANNOTATIONS" value="true" />
-    <option name="COLLAPSE_END_OF_LINE_COMMENTS" value="true" />
   </component>
   <component name="XmlFoldingSettings">
-    <option name="collapseXmlTags" value="true" />
     <option name="COLLAPSE_XML_TAGS" value="true" />
   </component>
 </application>
