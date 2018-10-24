@@ -1,9 +1,9 @@
 <application>
   <component name="FindSettings">
     <option name="caseSensitive" value="true" />
-    <option name="customScope" value="All Places" />
-    <option name="defaultScopeName" value="All Places" />
+    <option name="customScope" value="File '.../buildSrc/src/main/kotlin/DdlGenerator.kt [objytrak15761_objy-ddl]'" />
+    <option name="defaultScopeName" value="File '.../buildSrc/src/main/kotlin/DdlGenerator.kt [objytrak15761_objy-ddl]'" />
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
-    <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="SEARCH_SCOPE" value="File '.../buildSrc/src/main/kotlin/DdlGenerator.kt [objytrak15761_objy-ddl]'" />
   </component>
 </application>
