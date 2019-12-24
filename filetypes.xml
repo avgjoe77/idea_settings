@@ -9,16 +9,15 @@
   <component name="FileTypeManager" version="17">
     <extensionMap>
       <mapping ext="cxx" type="C++" />
-      <mapping pattern="*.js.flow" type="Flow" />
-      <mapping pattern="*.js.flow" type="Flow" />
       <mapping ext="gradle.kts" type="Kotlin" />
-      <mapping pattern="grains" type="PLAIN_TEXT" />
       <mapping pattern="foobar" type="PLAIN_TEXT" />
-      <mapping pattern="Vagrantfile_template" type="PLAIN_TEXT" />
       <mapping pattern="Vagrantfile" type="PLAIN_TEXT" />
+      <mapping pattern="Vagrantfile_template" type="PLAIN_TEXT" />
+      <mapping pattern="grains" type="PLAIN_TEXT" />
       <mapping ext="ks" type="PLAIN_TEXT" />
-      <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="cmd" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping ext="log" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
       <mapping ext="crg" type="XML" />
       <mapping pattern="minion" type="YAML" />
       <mapping ext="sls" type="YAML" />
