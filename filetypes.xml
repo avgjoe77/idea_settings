@@ -13,6 +13,7 @@
       <mapping pattern="grains" type="PLAIN_TEXT" />
       <mapping pattern="foobar" type="PLAIN_TEXT" />
       <mapping pattern="Vagrantfile_template" type="PLAIN_TEXT" />
+      <mapping pattern="test_index" type="PLAIN_TEXT" />
       <mapping pattern="Vagrantfile" type="PLAIN_TEXT" />
       <mapping ext="ks" type="PLAIN_TEXT" />
       <removed_mapping ext="cmd" approved="true" type="PLAIN_TEXT" />
