@@ -9,6 +9,7 @@
   <component name="FileTypeManager" version="17">
     <extensionMap>
       <mapping ext="cxx" type="C++" />
+      <mapping ext="main.kts" type="Kotlin" />
       <mapping ext="gradle.kts" type="Kotlin" />
       <mapping pattern="grains" type="PLAIN_TEXT" />
       <mapping pattern="foobar" type="PLAIN_TEXT" />
